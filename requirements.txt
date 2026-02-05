@@ -5,3 +5,5 @@ sentence-transformers
 scikit-learn
 tabulate
 torch
+requests
+beautifulsoup4
