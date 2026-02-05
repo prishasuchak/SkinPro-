@@ -41,7 +41,4 @@ Users can select their skin type, skin concerns, preferred product category, and
 4. Cosine similarity is used to rank products  
 5. Top-N most relevant products are displayed  
 
----
-
-## Project Structure
 
